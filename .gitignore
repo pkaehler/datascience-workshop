@@ -19,6 +19,7 @@ wheels/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+__pycache__/
 
 # pyenv
 .python-version
